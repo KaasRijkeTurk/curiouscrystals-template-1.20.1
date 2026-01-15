@@ -1,0 +1,18 @@
+Idk if you will need this, but I should just put it here anyways:
+
+
+
+Top Wizard tower name:
+minecraft:wizard_tower_top
+
+jigsaw:
+Name: curiouscrystals:wizard_tower_top
+
+
+
+bottom Wizard tower name:
+minecraft:wizard_tower
+
+jigsaw:
+Target name: curiouscrystals:wizard_tower_top
+Target Pool:curiouscrystals:wizard_tower_top_jigsaw/main_pool

@@ -1,0 +1,29 @@
+{
+  "item.curiouscrystals.ruby": "Ruby",
+  "item.curiouscrystals.sapphire": "Sapphire",
+  "item.curiouscrystals.opal": "Opal",
+  "item.curiouscrystals.onyx": "Onyx",
+  "item.curiouscrystals.bismuth": "Bismuth",
+  "item.curiouscrystals.peridot": "Peridot",
+  "item.curiouscrystals.citrine": "Citrine",
+  "item.curiouscrystals.jade": "Jade",
+  "item.curiouscrystals.alexandrite": "Alexandrite",
+  "item.curiouscrystals.rosequartz_gem": "Rose Quartz",
+
+  "block.curiouscrystals.bismuth_ore": "Bismuth Ore",
+  "block.curiouscrystals.onyx_ore": "Onyx Ore",
+  "block.curiouscrystals.opal_ore": "Opal Ore",
+  "block.curiouscrystals.blackstone_ruby_ore": "Ruby Ore",
+  "block.curiouscrystals.blackstone_sapphire_ore": "Sapphire Ore",
+  "block.curiouscrystals.deepslate_opal_ore": "Deepslate Opal Ore",
+  "block.curiouscrystals.peridot_ore": "Peridot Ore",
+
+  "item.curiouscrystals.opal_helmet": "Opal Helmet",
+  "item.curiouscrystals.opal_chestplate": "Opal Chestplate",
+  "item.curiouscrystals.opal_leggings": "Opal Leggings",
+  "item.curiouscrystals.opal_boots": "Opal Boots",
+  "subtitles.item.armor.equip_opal": "Opal armor clangs",
+  "item.curiouscrystals.gem_upgrade_template": "Gem Upgrade Template",
+  "item.curiouscrystals.ruby_diamond_sword": "Ruby Diamond Sword",
+  "item.curiouscrystals.ruby_diamond_axe": "Ruby Diamond Axe"
+}

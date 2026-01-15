@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "curiouscrystals:gem_upgrade_template"
+  },
+  "base": {
+    "item": "minecraft:diamond_sword"
+  },
+  "addition": {
+    "item": "curiouscrystals:ruby"
+  },
+  "result": {
+    "item": "curiouscrystals:ruby_diamond_sword"
+  }
+}

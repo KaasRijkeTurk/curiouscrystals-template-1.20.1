@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "curiouscrystals:item/ruby_diamond_axe"
+  }
+}

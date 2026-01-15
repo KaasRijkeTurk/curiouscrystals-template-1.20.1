@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "curiouscrystals",
+	"version": "${version}",
+	"name": "CuriousCrystals",
+	"description": "Mod that adds cool crystals",
+	"authors": [
+		"Team Isgoed"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "MIT",
+	"icon": "assets/curiouscrystals/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.projectisgoed.curiouscrystals.CuriousCrystals"
+		],
+        "client": [
+        "net.projectisgoed.curiouscrystals.CuriousCrystalsClient"
+        ],
+		"fabric-datagen": [
+			"net.projectisgoed.curiouscrystals.CuriousCrystalsDataGenerator"
+		]
+	},
+	"mixins": [
+		"curiouscrystals.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.18.2",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
